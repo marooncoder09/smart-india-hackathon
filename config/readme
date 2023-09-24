@@ -1,0 +1,7 @@
+create a config.env in config folder and add the following
+
+MONGO_URI=mongodb://localhost:27017/sampleDatabaseLinkWillShareTheLinkOfCluster0JustPasteItHere
+
+PORT=4001
+
+NODE_ENV=development
